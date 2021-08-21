@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.exe
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.deps.json
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.runtimeconfig.json
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.dll
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\ref\TutotialAyncAwait.dll
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutotialAyncAwait.pdb
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.AssemblyInfo.cs
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.dll
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\ref\TutotialAyncAwait.dll
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.pdb
+C:\Users\Professional\source\repos\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutotialAyncAwait.genruntimeconfig.cache
