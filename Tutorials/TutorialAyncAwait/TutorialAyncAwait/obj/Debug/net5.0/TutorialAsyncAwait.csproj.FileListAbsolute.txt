@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.exe
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.deps.json
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.runtimeconfig.json
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.dll
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\ref\TutorialAsyncAwait.dll
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\bin\Debug\net5.0\TutorialAsyncAwait.pdb
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.dll
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\ref\TutorialAsyncAwait.dll
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.pdb
+C:\Users\Professional\source\repos\Tutorials\practice_and_tutorials\Tutorials\TutotialAyncAwait\TutotialAyncAwait\obj\Debug\net5.0\TutorialAsyncAwait.genruntimeconfig.cache
